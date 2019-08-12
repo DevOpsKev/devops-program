@@ -1,3 +1,2 @@
 # The Devops Program
-
-> "DevOps. Get with the program!"
+<img src="https://github.com/DevOpsKev/devops-program/blob/master/design/devops-program-banner.png" width="900px">
